@@ -34,3 +34,23 @@ th,td {
 	background-color: #1E90FF;
 	color: white;
 }
+
+div li{
+	margin:2px;
+}
+
+#table_title{
+	margin:10px;
+	border-bottom: 1px solid black;
+}
+
+footer ul{
+	list-style-type: square;
+	padding-left:30px;
+}
+
+li a{
+	color: #1E90FF;
+}
+
+
