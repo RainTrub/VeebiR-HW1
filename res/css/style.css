@@ -11,5 +11,26 @@ html, body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 35%;
+    width: 20%;
+}
+
+table,th,td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	text-align: left;
+	padding: 10px;
+}
+
+table {
+	margin: 10px;
+	width: 100%;
+}
+
+th,td {
+	height: 30px;
+}
+
+.course_table {
+	background-color: #1E90FF;
+	color: white;
 }
